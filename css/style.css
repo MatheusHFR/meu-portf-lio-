@@ -46,7 +46,7 @@ h2.titulo span{
     padding: 10px 40px;
     font-size: 20px;
     font-weight: 600;
-    background-color: #344977;
+    background-color: #344977c2;
     border: 0;
     border-radius: 30px;
     cursor: pointer;
@@ -104,7 +104,7 @@ header a {
     text-decoration: none;
     position: relative;
 }
-header a.menu-desktop:hover{
+header a:hover{
     color: var(--color-blue);
     transform: scale(1.05);
     transition: .2s;
